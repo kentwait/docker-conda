@@ -4,7 +4,8 @@ MAINTAINER Kent Kawashima <kentkawashima@gmail.com>
 
 ENV CONDA_PYTHON_VERSION 3
 ENV CONDA_DIR /opt/conda
-ENV CONDA_VERSION 4.2.12
+# Latest version 4.3.11 as of 2017-02-14  
+ENV CONDA_VERSION latest  
 ENV PATH ${CONDA_DIR}/bin:${PATH}
 
 WORKDIR /tmp
