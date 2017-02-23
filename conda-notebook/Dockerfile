@@ -1,4 +1,4 @@
-# kentwait/miniconda-notebook:python3
+# kentwait/conda-notebook:python3
 FROM kentwait/miniconda:python3
 MAINTAINER Kent Kawashima <kentkawashima@gmail.com>
 
